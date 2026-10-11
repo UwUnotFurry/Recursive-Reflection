@@ -1,0 +1,4 @@
+allprojects {
+    group = 'uwunotfurry'
+    version = '1.0.0'
+}
